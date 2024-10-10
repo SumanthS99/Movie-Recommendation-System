@@ -1,5 +1,6 @@
 # Movie Recommendation System
-Note: This project uses jupyter widgets which isn't supported in github. Please refer to the output screenshot separately attached.
+Note: This project uses jupyter widgets which isn't supported in github. Please refer to the output screenshot separately attached. For better interactivity, DOWNLOAD THE CODE AND RUN IT IN A JUPYTER NOTEBOOK.
+
 This is a movie recommendation system that combines two methods: content-based filtering and collaborative filtering. It suggests movies based on similarity to the user’s input and the preferences of similar users.
 
 ## How It Works
